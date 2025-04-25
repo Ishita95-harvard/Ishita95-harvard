@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishita95-harvad
+- 👋 Hi, I’m @Ishita95-harvad💍
 - 👀 Welcome to Ishita’s GitHub! 🚀
   
 Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
