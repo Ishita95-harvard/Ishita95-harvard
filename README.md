@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Ishita95-harvad
 - 👀 Welcome to Ishita’s GitHub! 🚀
+- 
 Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
+
 What You'll Find Here 💡
 - 🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
 - 🔹 Open-Source Contributions: Sharing projects and collaborating on new ideas.
@@ -8,6 +10,7 @@ What You'll Find Here 💡
 - 🔹 Hackathons & Competitions: Participating in cutting-edge contests like Kaggle challenges!
 
 Let's Connect! 🌍
+
 💞️I love collaborating on impactful projects, exchanging knowledge, and learning from the community. Feel free to check out my repositories, contribute, or reach out!
 🚀 Let’s build something amazing together
 
