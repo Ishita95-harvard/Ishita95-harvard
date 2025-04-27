@@ -22,9 +22,4 @@ Botanically speaking, a berry is a fruit that develops from a single ovary and h
 Ishita95-harvad/Ishita95-harvad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Python Libraries for Machine Learning 🚀
-
-Here is an overview of some of the key Python libraries used in Machine Learning and Data Science:
-
-![Python ML Libraries](python-libraries-for-ML.jpg)
 
