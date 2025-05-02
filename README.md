@@ -19,6 +19,13 @@ Botanically speaking, a berry is a fruit that develops from a single ovary and h
 
 [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 
+[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/newsletter)
+
+[Explore My Services](https://[yourwebsite.com](https://www.linkedin.com/services/page/942495333429368567/)/services)
+
+
+
+
 <!---
 Ishita95-harvad/Ishita95-harvad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
