@@ -23,7 +23,7 @@ Botanically speaking, a berry is a fruit that develops from a single ovary and h
 
 📲 [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
 
-🌎 [Open to new opportunities  national /international](https://www.india.gov.in/)
+🌎 [Open to national /international offers/events/opportunities](https://www.india.gov.in/)
 
 
 
