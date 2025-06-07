@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishita95-harvad
 - 🎈 Welcome to [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad)
   
-##### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
+#### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 
