@@ -3,6 +3,9 @@
   
 ##### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
+![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
+
+
 ✍ What You'll Find Here 
 - 🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
 - 🔹 Open-Source Contributions: Sharing projects and collaborating on new ideas.
