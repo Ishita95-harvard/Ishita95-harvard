@@ -13,7 +13,7 @@
 
 ### Here is Mini Portfolio Site!
 
-- [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
+⚔ - [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
 
 ### What You'll Find Here 
 - 🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
