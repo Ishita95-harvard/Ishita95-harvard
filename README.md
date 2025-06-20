@@ -1,14 +1,15 @@
  Hi, I’m Ishita95-harvad (Mobile: 📱)
- ▪
- Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
-     
-#### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
-
--  [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) - [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
+ 
+- Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
+ 
+ -  [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) - [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 -  [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
 
- 
+     
+#### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
+
+
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 
 ### Here is Mini Portfolio Site!
