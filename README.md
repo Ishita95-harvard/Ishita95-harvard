@@ -28,10 +28,11 @@
 - ▪ Feel free to check out my repositories, contribute, or reach out!
 - ▪ Let’s build something amazing together
 
+### To ReAch Out E-mailMe: bahamniaishita@gmail.com
+
 #### ⚡ Fun fact: Bananas are technically berries, but strawberries are not!
 Botanically speaking, a berry is a fruit that develops from a single ovary and has seeds inside. Since bananas fit that definition, they’re considered berries. Meanwhile, strawberries develop from a flower with multiple ovaries, which disqualifies them from being true berries. Nature is full of surprises!
 
-### To ReAch Out E-mailMe: bahamniaishita@gmail.com
 
 
 
