@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/<Ishita95-harvad>/<-Ishita-ai-portfolio>.git
+git add .
+git commit -m "Initial Commit"
+git push -u origin main
