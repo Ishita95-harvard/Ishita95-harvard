@@ -1,0 +1,5 @@
+"homepage": "https://ishita95-harvad.github.io/ishita-ai-portfolio",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
