@@ -1,5 +1,6 @@
--  Hi, I’m Ishita95-harvad
--  Welcome to [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad)
+ Hi, I’m Ishita95-harvad
+ 
+ Welcome to [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad)
    
 -  [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) - [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
@@ -10,6 +11,9 @@
 
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 
+### Here is Mini Portfolio Site!
+
+[Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
 
 ### What You'll Find Here 
 - 🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
@@ -28,9 +32,7 @@ Botanically speaking, a berry is a fruit that develops from a single ovary and h
 
 ### To reAch Out EmailMe: bahamniaishita@gmail.com
 
-### Here is Mini Portfolio Site!
 
-[Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
 
 
 
