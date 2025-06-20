@@ -1,0 +1,129 @@
+import React from 'react';
+
+// Main App component for the profile page
+const App = () => {
+  return (
+    // Main container for the entire profile page
+    <div className="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-50 p-4 sm:p-6 md:p-8 font-sans text-gray-800 antialiased">
+      {/* Container for the profile content */}
+      <div className="max-w-4xl mx-auto bg-white rounded-3xl shadow-xl overflow-hidden">
+        {/* Header section with profile summary */}
+        <header className="relative p-6 sm:p-8 md:p-10 bg-gradient-to-r from-blue-600 to-indigo-700 text-white rounded-t-3xl flex flex-col items-center text-center">
+          {/* Decorative overlay for subtle texture */}
+          <div className="absolute inset-0 bg-pattern-light opacity-10"></div>
+
+          {/* Profile Picture */}
+          {/* Using the directly accessible file name for the image source */}
+          <img
+            src="Profile picture.png"
+            alt="Ishita Bahamnia's Profile"
+            className="relative z-10 w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-xl border-4 border-white shadow-lg mb-6 object-cover"
+            onError={(e) => {
+              // Fallback for image loading errors: display a placeholder
+              e.target.onerror = null; // Prevent infinite loop
+              e.target.src = "https://placehold.co/192x192/CCCCCC/000000?text=Profile";
+            }}
+          />
+
+          {/* Main heading */}
+          <h1 className="relative z-10 text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight mb-4 rounded-lg">
+            Hire a Thinker.<br />
+            Build With a Doer.<br />
+            <span className="bg-white text-blue-600 px-3 py-1 rounded-xl shadow-lg inline-block mt-2">Empowered by AI</span>
+          </h1>
+
+          {/* Profile name */}
+          <p className="relative z-10 text-2xl sm:text-3xl font-semibold mt-6">
+            Ishita Bahamnia
+          </p>
+          {/* Professional title and certifications */}
+          <p className="relative z-10 text-lg sm:text-xl font-light opacity-90">
+            Senior Research Analyst &middot; GenAI Engineer
+          </p>
+          <p className="relative z-10 text-base sm:text-lg font-light opacity-80 mt-1">
+            Azure/Google Certified
+          </p>
+
+          {/* Upload Resume button (previously Download Resume) */}
+          <button className="relative z-10 mt-8 px-8 py-3 bg-white text-blue-700 font-bold text-lg rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out ring-2 ring-blue-300 ring-opacity-50">
+            Upload Resume {/* Text changed from "Download Resume" to "Upload Resume" */}
+            {/* Optional icon for the upload button (reusing download icon for now) */}
+            <svg className="inline-block ml-2 -mt-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 001.414 0L9 8.414V14a1 1 0 102 0V8.414l1.293 1.293a1 1 0 001.414-1.414l-3-3a1 1 0 00-1.414 0l-3 3a1 1 0 000 1.414z" clipRule="evenodd"></path></svg>
+          </button>
+        </header>
+
+        {/* Projects section */}
+        <section className="p-6 sm:p-8 md:p-10">
+          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-8 pb-4 border-b-2 border-indigo-200">
+            Projects
+          </h2>
+
+          {/* Grid for projects, responsive layout */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+            {/* Project Card: Collaborative Multi-Agent System */}
+            <div className="bg-indigo-50 p-6 rounded-2xl shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300 ease-in-out border border-indigo-100">
+              <h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
+                Building a Collaborative Multi-Agent System with LangGraph
+              </h3>
+              <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
+                Collaborative filtering, augmented workflows for real grids.
+              </p>
+            </div>
+
+            {/* Project Card: End-to-End E-Commerce ML Recommendation System */}
+            <div className="bg-indigo-50 p-6 rounded-2xl shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300 ease-in-out border border-indigo-100">
+              <h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
+                End-to-End E-Commerce ML Recommendation System
+              </h3>
+              <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
+                A collaborative filtering, product ranking and Flask APIs.
+              </p>
+            </div>
+
+            {/* Project Card: Agentic AI for LinkedIn Lead Generation */}
+            <div className="bg-indigo-50 p-6 rounded-2xl shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300 ease-in-out border border-indigo-100">
+              <h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
+                Agentic AI for LinkedIn Lead Generation
+              </h3>
+              <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
+                Unseen Connection.
+              </p>
+            </div>
+
+            {/* Project Card: Agentic RAGs: The Dominant AI Architecture of 2025 */}
+            <div className="bg-indigo-50 p-6 rounded-2xl shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300 ease-in-out border border-indigo-100">
+              <h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
+                Agentic RAGs: The Dominant AI Architecture of 2025
+              </h3>
+              <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
+                Combining Retrieval AI Architecture of 2025.
+              </p>
+            </div>
+
+            {/* Project Card: ETL Data Pipeline with GCP, Cloud Data Fusion, and Airflow (Instance 1) */}
+            <div className="bg-indigo-50 p-6 rounded-2xl shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300 ease-in-out border border-indigo-100">
+              <h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
+                ETL Data Pipeline with GCP, Cloud Data Fusion, and Airflow
+              </h3>
+              <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
+                Data Efficiency.
+              </p>
+            </div>
+
+            {/* Project Card: ETL Data Pipeline with GCP, Cloud Data Fusion, and Airflow (Instance 2) */}
+            <div className="bg-indigo-50 p-6 rounded-2xl shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300 ease-in-out border border-indigo-100">
+              <h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
+                ETL Data Pipeline with GCP, Cloud Data Fusion, and Airflow
+              </h3>
+              <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
+                Cloud Data.
+              </p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+};
+
+export default App;
