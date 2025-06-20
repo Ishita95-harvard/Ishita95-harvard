@@ -31,7 +31,7 @@
 Botanically speaking, a berry is a fruit that develops from a single ovary and has seeds inside. Since bananas fit that definition, they’re considered berries. Meanwhile, strawberries develop from a flower with multiple ovaries, which disqualifies them from being true berries. Nature is full of surprises!
 
 ### To reAch Out EmailMe: bahamniaishita@gmail.com
-
+(Mobile: 📱)
 
 
 
