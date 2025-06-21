@@ -6,15 +6,15 @@
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 -  [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
 
+ #### Here is Mini Portfolio Site!
+
+⚔ - [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
      
 #### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
 
+
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
-
-### Here is Mini Portfolio Site!
-
-⚔ - [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
 
 ### What You'll Find Here 
 - 🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
