@@ -1,7 +1,9 @@
 ### Hi, I’m Ishita95-harvad 
  
- ### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) 🎀🎀  ( Mobile: 📱 )
- ### To ReAch Out E-mailMe: bahamniaishita@gmail.com
+ ### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) 🎀🎀  
+ 
+ ### To ReAch Out E-mailMe: bahamniaishita@gmail.com ( Mobile: 📱 )
+ 
  -  [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) - [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 -  [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
