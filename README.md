@@ -7,7 +7,7 @@
  #### Here is Mini GitHub Portfolio Site!
   
 #### I build intelligent systems for energy, real estate & lead generation.  
- ⚔  [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
+ ⚔  [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio) work ~in progress 
 
 
  
