@@ -5,10 +5,10 @@
  
 
  #### Here is Mini GitHub Portfolio Site!
-   ⚔  [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)
+   ⚔  [Ishita’s GitHub Portfolio](https://github.com/Ishita95-harvad/-Ishita-ai-portfolio)  work ~in progress 
    
 #### I build intelligent systems for energy, real estate & lead generation.  
-   [Google Developer Expert](https://g.dev/ishitabahammnia)   work ~in progress 
+   [Google Developer Expert](https://g.dev/ishitabahammnia)  
 
 
  
