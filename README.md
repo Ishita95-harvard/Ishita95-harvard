@@ -15,7 +15,7 @@
  
 
  ---
-  #### Mobile: 📱 E-mail : bahamniaishita@gmail.com   Work~in Progress
+  #### Mobile: 📱 E-mail : bahamniaishita@gmail.com   work~in progress
    
 #### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
   
@@ -23,7 +23,7 @@
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 -  [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
 
-**Ishita Bahamnia received her B.Tech. and M.Tech. in AI & ML  from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
+**Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML  from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
 
 🔗 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗 [ORCID](https://orcid.org/0009-0006-6433-0895)
 
