@@ -9,7 +9,8 @@
    
 #### I build intelligent systems for energy, real estate & lead generation.  
    [Google Developer Expert](https://g.dev/ishitabahammnia)  
-
+   
+#### work ~ in progress
 
  
 
