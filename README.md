@@ -23,6 +23,12 @@
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 -  [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
 
+**Ishita Bahamnia** received her B.Tech. and M.Tech. in AI & ML  from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.
+
+🔗 [Google Scholar](https://scholar.google.com/citations?user=XXXXX)  
+🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  
+🔗 [Publons](https://www.webofscience.com/wos/author/record/XXXXXX)  
+🔗 [ORCID](https://orcid.org/0009-0006-6433-0895)
 
 
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
