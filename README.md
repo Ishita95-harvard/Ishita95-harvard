@@ -4,18 +4,18 @@
  
  
    #### Hi, I’m Ishita95-harvad 🎀🎀
- #### Here is Mini GitHub Portfolio Site!
-   ⚔  [Ishita’s GitHub Portfolio](https://ishita95-harvad.github.io/Ishita95-harvad-Ishita-ai-portfolio.github.io/) 
+
    
 #### I build intelligent systems for energy, real estate & lead generation.  
- #### work ~ in progress 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia)  
+ 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
    
-
+ #### Here is Mini GitHub Portfolio Site!
+   ⚔  [Ishita’s GitHub Portfolio](https://ishita95-harvad.github.io/Ishita95-harvad-Ishita-ai-portfolio.github.io/) 
 
  
 
  ---
-  #### Mobile: 📱 E-mail : bahamniaishita@gmail.com 
+  #### Mobile: 📱 E-mail : bahamniaishita@gmail.com   Work~in Progress
    
 #### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
   
