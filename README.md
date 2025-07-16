@@ -25,7 +25,7 @@
 
 **Ishita Bahamnia** received her B.Tech. and M.Tech. in AI & ML  from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.
 
-🔗 [Google Scholar](https://scholar.google.com/citations?user=XXXXX)  
+🔗 [Google Scholar]
 🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  
 🔗 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  
 🔗 [ORCID](https://orcid.org/0009-0006-6433-0895)
