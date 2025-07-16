@@ -1,16 +1,16 @@
+
+    
+#### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
+ 
  
    #### Hi, I’m Ishita95-harvad 🎀🎀
-    
-#### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)🎈
- 
-
  #### Here is Mini GitHub Portfolio Site!
    ⚔  [Ishita’s GitHub Portfolio](https://ishita95-harvad.github.io/Ishita95-harvad-Ishita-ai-portfolio.github.io/) 
    
 #### I build intelligent systems for energy, real estate & lead generation.  
-   [Google Developer Expert](https://g.dev/ishitabahammnia)  
+ #### work ~ in progress 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia)  
    
-#### work ~ in progress
+
 
  
 
