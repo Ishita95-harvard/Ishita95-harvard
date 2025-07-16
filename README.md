@@ -29,19 +29,19 @@
 
 
 ### What You'll Find Here 
-- 🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
-- 🔹 Open-Source Contributions: Sharing projects and collaborating on new ideas.
-- 🔹 Data Science & Research: Exploring datasets and building analytical solutions.
-- 🔹 Hackathons & Competitions: Participating in cutting-edge contests like Kaggle challenges!
+🔹 Machine Learning & AI: Experimenting with deep learning models, NLP, and structured prediction challenges.
+🔹 Open-Source Contributions: Sharing projects and collaborating on new ideas.
+🔹 Data Science & Research: Exploring datasets and building analytical solutions.
+🔹 Hackathons & Competitions: Participating in cutting-edge contests like Kaggle challenges!
 
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 -------------
 
 ### Let's Connect!
 
-- ▪ I love collaborating on impactful projects, exchanging knowledge, and learning from the community.
-- ▪ Feel free to check out my repositories, contribute, or reach out!
-- ▪ Let’s build something amazing together
+ ▪ I love collaborating on impactful projects, exchanging knowledge, and learning from the community.
+▪ Feel free to check out my repositories, contribute, or reach out!
+▪ Let’s build something amazing together
 
 
 
