@@ -27,7 +27,7 @@
 
 🔗 [Google Scholar](https://scholar.google.com/citations?user=XXXXX)  
 🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  
-🔗 [Publons](https://www.webofscience.com/wos/author/record/XXXXXX)  
+🔗 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  
 🔗 [ORCID](https://orcid.org/0009-0006-6433-0895)
 
 
