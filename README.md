@@ -12,7 +12,7 @@
  #### Here is Mini GitHub Portfolio Site!
    ⚔  [Ishita’s GitHub Portfolio](https://ishita95-harvad.github.io/Ishita95-harvad-Ishita-ai-portfolio.github.io/) 
 
- work ~progress 🇮🇳
+ work ~progress 🇮🇳 
 ---------------------+
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
 
