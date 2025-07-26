@@ -10,7 +10,7 @@
  🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
    
  #### Here is Mini GitHub Portfolio Site!
-   ⚔  [Ishita’s GitHub Portfolio](https://ishita95-harvad.github.io/Ishita95-harvad-Ishita-ai-portfolio.github.io/) 
+   ⚔  [Ishita Portfolio Site ](https://ishita95-harvad.github.io/Ishita95-harvad-Ishita-ai-portfolio.github.io/) 
 
  work ~progress 🇮🇳 
 ---------------------+
