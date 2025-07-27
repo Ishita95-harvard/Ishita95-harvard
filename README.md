@@ -17,7 +17,15 @@
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
 
  ---
-     
+ ### ✌What You'll Find Here 
+🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
+
+🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
+
+🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
+
+🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
+    
 #### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
   
  -  [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) - [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
@@ -29,14 +37,6 @@
 🔗 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗 [ORCID](https://orcid.org/0009-0006-6433-0895)
 
 
-### ✌What You'll Find Here 
-🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
-
-🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
-
-🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
-
-🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
 
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 -------------
