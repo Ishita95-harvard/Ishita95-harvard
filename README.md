@@ -9,15 +9,17 @@
 
  #### Here is Mini GitHub Portfolio Site!
  ⚔ [Mini Portfolio Site](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io)
-
- work ~progress 🇮🇳 
----------------------+
+ 
+ #### I build intelligent systems for energy, real estate & lead generation.  
+ 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
+ 
+ work ~progress 🇮🇳 ---------------------+
+ 
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
 
  ---
 
- #### I build intelligent systems for energy, real estate & lead generation.  
- 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
+
    
  ### ✌What You'll Find Here 
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
