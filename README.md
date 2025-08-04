@@ -8,7 +8,7 @@
    
 
  #### Here is Mini GitHub Portfolio Site!
- ⚔ [Mini Portfolio Site](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io)
+ ⚔ [Mini Portfolio Site](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io)MTech
  
  #### I build intelligent systems for energy, real estate & lead generation.  
  🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
