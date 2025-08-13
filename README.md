@@ -58,7 +58,12 @@ Welcome to my GitHub space! Here's a glimpse of what emersed In* :
 
 🔗 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗 [ORCID](https://orcid.org/0009-0006-6433-0895)
 
+from google_images_download import google_images_download
+   response = google_images_download.googleimagesdownload()
+   response.download({"keywords": "IIT Delhi campus", "limit": 1})
+
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
+
 --------
 
 ### ⚡ Fun fact: Bananas are technically berries, but strawberries are not!
