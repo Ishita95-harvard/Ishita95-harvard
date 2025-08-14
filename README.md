@@ -31,6 +31,8 @@ Welcome to my GitHub space! Here's a glimpse of what emersed In* :
 
 🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
 
+![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
+
  ---
     
 #### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
@@ -55,7 +57,7 @@ Welcome to my GitHub space! Here's a glimpse of what emersed In* :
 
 
 
-![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
+
 -----------------------------------------------------------------------------------------------------------------------
 
 **Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML  from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
