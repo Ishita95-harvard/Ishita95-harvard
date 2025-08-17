@@ -17,6 +17,7 @@
  
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
 
+ ![Image download]
 ----------------------
 
 Welcome to my GitHub space! Here's a glimpse of what emersed In* :
