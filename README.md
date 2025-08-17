@@ -1,25 +1,20 @@
 
     
 #### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
- 
- 
+  
    #### Hi, I’m Ishita95-harvad 🎀🎀
-
-   
-
- #### Here is MiniGitHub Portfolio Site!Mtech
- ⚔ [ Portfolio Site](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io)
- 
  #### I build intelligent systems for energy, real estate & lead generation.  
  🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
  
  work ~progress 🇮🇳 ---------------------+
  
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
-
- ![Image download]
-
 ----------------------
+ #### Here is MiniGitHub Portfolio Site!Mtech
+
+[![Portfolio Screenshot](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/images/portfolio-screenshot.jpg?raw=true)](https://ishita95-harvard.github.io/)
+
+-----------
 
 Welcome to my GitHub space! Here's a glimpse of what emersed In* :
    
