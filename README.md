@@ -9,10 +9,13 @@
  work ~progress 🇮🇳 ---------------------+
  
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
+
+
 ----------------------
  #### Here is MiniGitHub Portfolio Site!Mtech
 
-[![Portfolio Screenshot](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/images/portfolio-screenshot.jpg?raw=true)](https://ishita95-harvard.github.io/)
+## 🚀 Portfolio
+[![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
 
 -----------
 
