@@ -12,7 +12,7 @@
 
 
 ----------------------
- #### ⚔ Here is MiniGitHub Portfolio Site!Mtech 
+ #### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 
 ## 🚀 Portfolio
 [![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
