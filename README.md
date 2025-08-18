@@ -3,15 +3,19 @@
 #### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
   
    #### Hi, I’m Ishita95-harvad 🎀🎀
- #### I build intelligent systems for energy, real estate & lead generation.  
- 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
  
- work ~progress 🇮🇳 ---------------------+
+work ~progress 🇮🇳 ---------------------+
  
 #### Mobile: 📱 E-mail : bahamniaishita@gmail.com
 
-
 ----------------------
+
+#### I build intelligent systems for energy, real estate & lead generation.  
+ 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
+ 
+ 
+
+
  #### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 
 ## 🚀 Portfolio
