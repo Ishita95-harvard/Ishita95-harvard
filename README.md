@@ -1,8 +1,8 @@
 
-    
-#### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
-  
-   #### Hi, I’m Ishita95-harvad 🎀🎀
+     
+   ### Hi, I’m Ishita95-harvad 🎀🎀
+   
+   #### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
  
 work ~progress 🇮🇳 ---------------------+
  
@@ -10,16 +10,16 @@ work ~progress 🇮🇳 ---------------------+
 
 ----------------------
 
-#### I build intelligent systems for energy, real estate & lead generation.  
- 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia) 
- 
- 
+
+ 🎈  [Google Developer Expert](https://g.dev/ishitabahammnia) 
+ #### I build intelligent systems for energy, real estate & lead generation.   
 
 
- #### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 
+#### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 ## 🚀 Portfolio
-[![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
+ 
+[![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)]
 
 -----------
 
