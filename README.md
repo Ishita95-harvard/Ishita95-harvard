@@ -1,29 +1,29 @@
 
      
-   ### Hi, I’m Ishita95-harvad 🎀🎀
+##      Hi, I’m Ishita95-harvad 🎀🎀
    
-   #### Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
- 
-work ~progress 🇮🇳 ---------------------+
- 
-#### Mobile: 📱 E-mail : bahamniaishita@gmail.com
+### 🏛️ Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad)
 
+###  ✈️ E-mail : bahamniaishita@gmail.com,Mobile: 📱  work ~progress 🇮🇳 ---------------------+
+
+#### 🚀 Portfolio:
 ----------------------
 
-
- 🎈  [Google Developer Expert](https://g.dev/ishitabahammnia) 
- #### I build intelligent systems for energy, real estate & lead generation.   
+🎈  [Google Developer Expert](https://g.dev/ishitabahammnia) 
+ 
+### 🏛️I build intelligent systems for energy, real estate & lead generation.     
 
 ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
 
-#### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
-## 🚀 Portfolio
+### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
+
+
  
 [![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)]
 
 -----------
 
-Welcome to my GitHub space! Here's a glimpse of what emersed In* :
+  ### Welcome to my GitHub space! Here's a glimpse of what emersed In*:🌍 (Globally) 
    
  ### 🌟 What You'll Find Here 
  
@@ -39,7 +39,7 @@ Welcome to my GitHub space! Here's a glimpse of what emersed In* :
 
  ---
     
-#### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
+### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
   
  -  [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) - [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/)
 -  [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
@@ -47,6 +47,7 @@ Welcome to my GitHub space! Here's a glimpse of what emersed In* :
 
 
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
+
 -------------
 
 ### 💡Let's Connect!
