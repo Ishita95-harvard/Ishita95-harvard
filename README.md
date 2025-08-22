@@ -6,7 +6,7 @@
 
 ###  ✈️ E-mail : bahamniaishita@gmail.com,Mobile: 📱  work ~progress 🇮🇳 ---------------------+
 
-#### 🚀 Portfolio:
+#### 🧠 Portfolio:
 ----------------------
 
 🎈  [Google Developer Expert](https://g.dev/ishitabahammnia) 
@@ -15,10 +15,8 @@
 
 ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
 
-### ⚔ [Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
+### 🚀[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 
-
- 
 [![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)]
 
 -----------
