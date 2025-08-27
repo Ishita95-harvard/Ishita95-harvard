@@ -49,7 +49,7 @@
 
 -------------
 
-### 💡Let's Connect!
+### 💡Let's Connect! ### AI-SWAG
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
 
