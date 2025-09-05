@@ -6,7 +6,7 @@
 
 
 
-#### 🧠 Portfolio: 🎈   E-mail : bahamniaishita@gmail.com, Mobile: 📱  🎈
+### 🧠 Portfolio *: 🎈   E-mail : bahamniaishita@gmail.com, Mobile: 📱  🎈
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)
 ----------------------
 
@@ -22,7 +22,7 @@
 
 -----------
 
-### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In*:🌍 (Globally) 
+### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally) 
    
 ### 🌟 What You'll Find Here 
  
