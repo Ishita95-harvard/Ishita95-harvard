@@ -1,12 +1,9 @@
 
      
-###     🌐 Hi, I’m Ishita95-harvad 🎀🎀  work ~progress 🇮🇳 ---------------------+
-   
-### 🏛️ Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️
+### 🌐 Hi, I’m Ishita95-harvad 🎀🎀  work ~progress 🇮🇳 ---------------------+
 
+### 🧠Portfolio *: 🎈E-mail:bahamniaishita@gmail.com, Mobile: 📱🎈| 🏛️ Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ |🎀🎀work ~progress 🇮🇳 ---------------------+
 
-
-### 🧠 Portfolio *: 🎈   E-mail : bahamniaishita@gmail.com, Mobile: 📱  🎈
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)
 ----------------------
 
