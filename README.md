@@ -73,7 +73,7 @@
 
 --------
 
-### ⚡🌐 VisasQ
+### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/)
 
 
 
