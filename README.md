@@ -75,7 +75,7 @@
 
 ### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/)
 
-
+![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
 <!---
 
