@@ -20,6 +20,7 @@
   ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
 
 ------
+ 
  ### 💡Let's Connect!  AI-SWAG
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
@@ -31,7 +32,12 @@
 ![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
 
  -------------
- 
+
+### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : August 2025
+
+![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
+
+---------
  ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally) 
 ### 🌟 What You'll Find Here 
  
@@ -45,20 +51,6 @@
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 
 -------------
-
-### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : August 2025
-
-
-
-![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
-
------
-
-### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
-
-[![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)]
-
----------
 
 
  ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
@@ -77,7 +69,12 @@
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 
 
+-----
 
+### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
+
+[![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)]
+----
 
 <!---
 
