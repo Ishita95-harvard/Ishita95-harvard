@@ -4,18 +4,18 @@
 
 
 
-#### 🎀🎀 work ~progress 🇮🇳 ---------------------+
+### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
 
 
-###  🧠Portfolio*:🎈 E-mail:bahamniaishita@gmail.com, Mobile: 📱|🏛️ Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️| 🎈
+###  🧠Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 | 🏛️ Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ |  🎈
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)
 
  ----------------------
 
-#### 🎈 [Google Developer Expert](https://g.dev/ishitabahammnia)  | Niti Aayog INternship : October 2025  🎈              
-### 🏛️I build intelligent systems for energy, real estate & lead generation.
+###  [Google Developer Expert](https://g.dev/ishitabahammnia)  | Niti Aayog INternship : October 2025             
+#### 🎈 🏛️I build intelligent systems for energy, real estate & lead generation.  🎈  
  
   ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
 
