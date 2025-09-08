@@ -14,7 +14,7 @@
 
  ----------------------
 
-###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE :Memeber ID             
+###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE             
 
  
   ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
@@ -41,7 +41,7 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------
-🔗🌐 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗🌐 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗🌐 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗🌐 [ORCID](https://orcid.org/0009-0006-6433-0895) 🔗🌐 [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025
+🔗🌐 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗🌐 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗🌐 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗🌐 [ORCID](https://orcid.org/0009-0006-6433-0895) 🔗🌐 [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025 
 
 **Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
 
