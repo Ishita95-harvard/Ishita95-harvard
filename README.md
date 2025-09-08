@@ -14,7 +14,7 @@
 
  ----------------------
 
-###  [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025             
+###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025             
 #### 🎈I build intelligent systems for energy, real estate & lead generation.🎈  
  
   ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
