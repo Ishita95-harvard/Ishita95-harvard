@@ -14,7 +14,7 @@
 
  ----------------------
 
-###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025             
+###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE :Memeber ID             
 
  
   ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
