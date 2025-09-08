@@ -15,7 +15,7 @@
  ----------------------
 
 ###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025             
-#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈  
+
  
   ![Professional photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/photo_2025-08-22_08-21-53.jpg?raw=true)
 
@@ -51,7 +51,7 @@
 ### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 
 [![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)]
-
+#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈  
 -----
 
  ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
