@@ -24,9 +24,10 @@
 - 🌐 [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
 
  ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
-  
-![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
-  
+
+![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
+
+----  
 ---------
 
  ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally) 
@@ -60,10 +61,9 @@
 ▪🌐 Feel free to check out my repositories, **contribute, or reach out**!
 
 ▪🌐 Let’s**build** something amazing together 
+  
+![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
-![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
-
-----
 
 ### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 #### 🎈I build intelligent systems for energy, real estate & lead generation.🎈
