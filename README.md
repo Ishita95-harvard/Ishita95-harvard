@@ -1,6 +1,6 @@
 
      
-### 🌐 Hi, I’m Ishita95-harvad/finances kha h?
+### 🌐 Hi, I’m Ishita95-harvad/finances kha h?/  💻?
 
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
