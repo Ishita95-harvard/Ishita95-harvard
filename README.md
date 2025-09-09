@@ -5,7 +5,7 @@
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
 ###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ |  🎈
-
+![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 -----------------------
 ###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE   
 
