@@ -10,29 +10,29 @@
 
 ###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ |  🎈
 
-![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)
+
 
  ----------------------
 ###  synapseglobal.tech  | [Google Developer Expert](https://g.dev/ishitabahammnia)  |  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE   
-![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
-          
+
+ ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
 ---------
 ### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : SINCE August 2025 
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
 -------------
-
+### 🌟 What You'll Find Here 
 - 🌐 [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) -🌐 [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) - 🌐 [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 - 🌐 [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
  ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
   
-
+![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
   
 ---------
 
  ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally) 
-### 🌟 What You'll Find Here 
+
  
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
 
@@ -53,7 +53,7 @@
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
   
 -----
-#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈 
+ 
  ### 💡Let's Connect!  AI-SWAG
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
@@ -66,7 +66,7 @@
 
 ----
 ### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
-
+#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈
 ![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
 
 --------
