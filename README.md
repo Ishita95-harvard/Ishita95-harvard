@@ -20,7 +20,9 @@
 ### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : SINCE August 2025 
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
+
 -------------
+
 - 🌐 [Explore My Services](https://www.linkedin.com/services/page/942495333429368567/) -🌐 [Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) - 🌐 [LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst)
 - 🌐 [Open to national-international offers/events/opportunities](https://www.india.gov.in/)
  ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
@@ -51,7 +53,7 @@
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
   
 -----
-## 🎈I build intelligent systems for energy, real estate & lead generation.🎈 
+#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈 
  ### 💡Let's Connect!  AI-SWAG
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
