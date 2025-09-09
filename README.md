@@ -51,6 +51,7 @@
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
   
 -----
+## 🎈I build intelligent systems for energy, real estate & lead generation.🎈 
  ### 💡Let's Connect!  AI-SWAG
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
@@ -65,7 +66,7 @@
 ### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
 
 ![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
-#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈 
+
 --------
 
 
