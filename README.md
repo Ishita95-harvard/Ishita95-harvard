@@ -4,7 +4,7 @@
 
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
-###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ |  🎈
+###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ | 🌐 synapseglobal.tech : Sep 2025| 🎈
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
 -----------------------
@@ -16,7 +16,7 @@ Actively Taking On Project Completion Requests
 ---------
 ### 🌟 What You'll Find Here 
 
-### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : SINCE August 2025 | [Google Developer Expert](https://g.dev/ishitabahammnia) |
+### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : SINCE August 2025 | [Google Developer Expert](https://g.dev/ishitabahammnia) | 
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
