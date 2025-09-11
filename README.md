@@ -33,7 +33,9 @@ Actively Taking On Project Completion Requests
   
 ---------
 
- ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 | 🌐 synapseglobal.tech : Sep 2025 (Globally)| 🌐 synapseglobal.tech : Sep 2025 |
+ ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
+ 
+ | 🌐 synapseglobal.tech : Sep 2025 (Globally)| 🌐 synapseglobal.tech : Sep 2025  |
 
  
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
