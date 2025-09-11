@@ -4,11 +4,12 @@
 
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
-###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ | 🌐 synapseglobal.tech : Sep 2025| 🎈
+###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ | 🎈
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
 -----------------------
-### 🌐 synapseglobal.tech : Sep 2025 |  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE   
+
+###  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE   
 Actively Taking On Project Completion Requests
 
  ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
@@ -32,7 +33,7 @@ Actively Taking On Project Completion Requests
   
 ---------
 
- ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally) 
+ ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 | 🌐 synapseglobal.tech : Sep 2025 (Globally)| 🌐 synapseglobal.tech : Sep 2025 |
 
  
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
