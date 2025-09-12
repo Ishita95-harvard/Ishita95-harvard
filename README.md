@@ -15,9 +15,9 @@ Actively Taking On Project Completion Requests
  ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
 
 ---------
-### 🌟 What You'll Find Here 
+### 🌟 What You'll Find Here :: SINCE August 2025 
 
-### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) : SINCE August 2025 | [Google Developer Expert](https://g.dev/ishitabahammnia) | 
+### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) | [Google Developer Expert](https://g.dev/ishitabahammnia) | ![LinkedIn Request Page](https://www.linkedin.com/services/page/942495333429368567/) 
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
@@ -35,7 +35,7 @@ Actively Taking On Project Completion Requests
 
  ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
  
- | 🌐 synapseglobal.tech : Sep 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  |
+ | 🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  |
 
  
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
