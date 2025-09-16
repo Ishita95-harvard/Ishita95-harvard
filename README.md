@@ -1,46 +1,44 @@
 
      
-### 🌐 Hi, I’m Ishita95-harvad 🖥*/ finances- Kaggle money come on in /*💻 MAcbook: October 2025 Get me This:Niti AAyog Internship
+### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- Kaggle money come on in |*💻 MAcbook: October 2025 Get me This:Niti AAyog Internship | 🎈
 
-### 🎀🎀 work ~progress 🇮🇳 ---------------------+
-
-###  🏛️ Portfolio*: 🎈|  E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️ | 🎈
+###  | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️  Portfolio* |
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
 -----------------------
 
-###  🏛️ Niti Aayog INternship : October 2025 | 🔗🌐 IEEE: E-mail:bahamniaishita@gmail.com 
-Actively Taking On Project Completion Requests
+###  🔗🌐 Niti Aayog INternship : October 2025 | 🏛️ IEEE: E-mail:bahamniaishita@gmail.com 
+
 
  ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
 
-BEST PAPER AWARD DECEMBER 2025!🏆 IEEE APPEEC AUCKALAND, NEW ZEALAND
+GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC AUCKALAND, NEW ZEALAND
 
 ---------
-### 🌟 What You'll Find Here :: SINCE August 2025 
 
-### ⚡🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) |  🌐 ![LinkedIn Request Page](https://www.linkedin.com/services/page/942495333429368567/) |
 
-![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
-
--------------
+### 🌐 VisasQ INc. [VisasQ](https://corp.visasq.co.jp/en/) |  🌐 ![LinkedIn Request Page](https://www.linkedin.com/services/page/942495333429368567/) |
+#### ⚡Actively Taking On Project Completion Requests
 
 - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
 - 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
 - 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
 
- ### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
-
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
+-------------
+| 🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia) |
 
+
+### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
+
+
+![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
   
 ---------
 
  ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
  
- | 🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)
-
- 
+ #### 🌟 What You'll Find Here :
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
 
 🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
@@ -62,16 +60,17 @@ BEST PAPER AWARD DECEMBER 2025!🏆 IEEE APPEEC AUCKALAND, NEW ZEALAND
   
 -------
 
-#### 🎈I build intelligent systems for energy, real estate & lead generation.🎈
+
+## 🎈I build intelligent systems for energy, real estate & lead generation.🎈
 
 #### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
-
 
 ![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
 
 --------
+## 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
- ### 💡Let's Connect!  AI-SWAG
+### 💡Let's Connect!  AI-SWAG
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
 
