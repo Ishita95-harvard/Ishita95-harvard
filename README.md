@@ -1,6 +1,6 @@
 
      
-### 🌐 Hi, I’m Ishita95-harvad */finances* kha h?/  *💻?
+### 🌐 Hi, I’m Ishita95-harvad */ finances- Kaggle money come on in /*💻 Niti AAyog Internship
 
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
