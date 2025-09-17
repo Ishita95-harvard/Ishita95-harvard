@@ -2,7 +2,7 @@
      
 ### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- 🌐 Kaggle money come on in |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
 ![profile picture](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Web_Photo_Editor%20(1).jpg)
-
+---
 ###  | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️  Portfolio* |
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
@@ -41,7 +41,9 @@
 **Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
 
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
+
 ---
+
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
