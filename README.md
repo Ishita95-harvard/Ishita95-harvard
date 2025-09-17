@@ -1,6 +1,7 @@
 
      
 ### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- 🌐 Kaggle money come on in |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
+![profile picture](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Web_Photo_Editor%20(1).jpg)
 
 ###  | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️  Portfolio* |
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
