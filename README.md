@@ -8,7 +8,7 @@
 --------------
 
 ### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
-![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
+![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ---------
 
@@ -28,7 +28,7 @@
 
 ### ⚡Actively Taking On Project Completion Requests HANDS ON-
 
-### 🌐 ![VisasQ](https://corp.visasq.co.jp/en/) INc.|  🌐  ![LinkedIn Service  Request Page](https://www.linkedin.com/services/page/942495333429368567/) |
+### 🌐 ![Visas-Q](https://corp.visasq.co.jp/en/) INc.|  🌐  ![LinkedIn Service  Request Page](https://www.linkedin.com/services/page/942495333429368567/) |
 
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
@@ -57,7 +57,7 @@
 ### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
   
 --------
-### Let's Connect!  AI-SWAG
+### Let's Connect! 
 
 #### Hey! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
