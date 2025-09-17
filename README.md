@@ -7,7 +7,7 @@
 
 --------------
 
-### | 🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia) |
+### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
 ![Image](https://trinitylifesciences.com/wp-content/uploads/2023/06/AIML-101-web.jpg)
 
 ---------
