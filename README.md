@@ -1,6 +1,6 @@
 
      
-### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- 🌐 Kaggle money come on in |*💻 MAcbook: October 2025 Get me This: 🔗 Niti AAyog Internship |🎈
+### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- 🌐 Kaggle money come on in |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
 
 ###  | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 |🧠 Welcome to [Ishita95-harvad](https://github.com/Ishita95-harvad) ✈️  Portfolio* |
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
@@ -13,8 +13,8 @@
 ---------
 
 ### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
+### 🌟 What You'll Find Here :
  
- #### 🌟 What You'll Find Here :
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
 
 🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
@@ -22,13 +22,11 @@
 🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
 
 🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
-
-
 ![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
 
 ------
 
-## ⚡Actively Taking On Project Completion Requests HANDS ON-
+### ⚡Actively Taking On Project Completion Requests HANDS ON-
 
 ### 🌐 ![VisasQ](https://corp.visasq.co.jp/en/) INc.|  🌐  ![LinkedIn Service  Request Page](https://www.linkedin.com/services/page/942495333429368567/) |
 
@@ -39,12 +37,11 @@
 
 🔗🌐 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗🌐 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗🌐 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗🌐 [ORCID](https://orcid.org/0009-0006-6433-0895) 🔗🌐 [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025 
 
-**Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
+**Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
 
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
-
-
-## 🎀🎀 work ~progress 🇮🇳 ---------------------+
+---
+### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
 
@@ -57,20 +54,20 @@
 - 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
 
 ![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
-#### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
+### 🛡️ JULY 2025[Here is MiniGitHub Portfolio Site!Mtech](https://github.com/Ishita95-harvad/Ishita95-harvad-Ishita-ai-portfolio.github.io) 
   
 --------
+### Let's Connect!  AI-SWAG
 
-### 💡Let's Connect!  AI-SWAG
-
-### Hi there! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
+#### Hey! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
 
-▪🌐 Feel free to check out my repositories, **contribute, or reach out**!
+▪🌐 Feel free to check out my repositories,**sponsors**,**contribute, or reach out**!
 
 ▪🌐 Let’s**build** something amazing together 
-  
+
+ 
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
 -----
