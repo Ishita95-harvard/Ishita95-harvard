@@ -1,6 +1,6 @@
 
      
-### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- 🌐 Kaggle money come on in |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
+### 🎈| 🌐 Hi, I’m Ishita95-harvad 🖥*| Finances- 🌐 Kaggle money come on in [freelance] |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
 ***
 ![profile picture](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Web_Photo_Editor%20(1).jpg)
 ---
