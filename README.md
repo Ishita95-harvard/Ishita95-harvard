@@ -13,7 +13,7 @@
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ---------
-### ⚡Actively Taking On Project Completion Requests HANDS ON-
+### ⚡ Project Completion Requests-
 
 ### 🌐 ![Visas-Q](https://corp.visasq.co.jp/en/) INc.|  🌐  ![LinkedIn Service  Request Page](https://www.linkedin.com/services/page/942495333429368567/) |
 
