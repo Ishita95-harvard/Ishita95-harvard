@@ -1,5 +1,5 @@
 
-###  | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) ✈️  Portfolio* |     
+#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) ✈️  Portfolio* |     
 
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
