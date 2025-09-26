@@ -10,12 +10,14 @@
 --------------
 
 ### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
+
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
+⚡ Project Completion Requests-  
 
 ---------
 
 
-### 🌐 ![Visas-Q](https://corp.visasq.co.jp/en/) INc. ⚡ Project Completion Requests-  
+### 🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc. 
 
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
