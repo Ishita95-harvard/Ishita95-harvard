@@ -11,13 +11,13 @@
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
-🧠Project Completion Requests-  
+🧠Project Completion Requests-  ### 🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc.
 
 ---------
 
 ### 🎈| 🌐 Hi, I’m Ishita95-harvard 🖥*| Finances- 🌐 Kaggle money come on in [freelance] |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
 
-### 🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc. 
+ 
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
