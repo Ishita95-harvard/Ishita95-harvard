@@ -26,7 +26,7 @@
 
 ![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
 
-### 🌟 What You'll Find Here :
+##### 🌟 What You'll Find Here :
  
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
 
