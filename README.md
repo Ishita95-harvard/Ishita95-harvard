@@ -7,22 +7,25 @@
 
 --------------
 
-### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
+#### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
-### 🧠Project Completion Requests-   🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc.
+#### 🧠Project Completion Requests-   🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc.
 
 ---------
 
-### 🎈| 🌐 Hi, I’m Ishita95-harvard 🖥*| Finances- 🌐 Kaggle money come on in [freelance] |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
+#### 🎈| 🌐 Hi, I’m Ishita95-harvard 🖥*| Finances- 🌐 Kaggle money come on in [freelance] |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
 
  
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ----
-### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
+#### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
+
+![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
+
 ### 🌟 What You'll Find Here :
  
 🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
@@ -32,7 +35,7 @@
 🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
 
 🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
-![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
+
 
 ------
 
