@@ -11,7 +11,7 @@
 
 ### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 synapseglobal.tech : Sep 2025  | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
-![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/photo_2025-09-26_20-07-33.jpg)
+
 ---------
 ### ⚡Actively Taking On Project Completion Requests HANDS ON-
 
