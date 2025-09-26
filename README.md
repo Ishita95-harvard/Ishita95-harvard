@@ -15,7 +15,7 @@
 ⚡ Project Completion Requests-  
 
 ---------
-
+### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
 ### 🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc. 
 
@@ -44,12 +44,12 @@
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 
 ---
+### IEEE MEMBER ID - 101542707 
+**GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
 
-### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
-IEEE MEMBER ID - 101542707
-**GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC AUCKALAND, NEW ZEALAND**
+
 
 ------
 
