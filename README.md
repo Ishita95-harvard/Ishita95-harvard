@@ -6,7 +6,7 @@
 ---
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
-
+![GGSIPU DL](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/022c6449e46efcda9000060136323f23.jpg)
 --------------
 
 ### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
