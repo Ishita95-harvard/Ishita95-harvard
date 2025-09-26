@@ -4,7 +4,7 @@
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
 ---
-### 🎈| 🌐 Hi, I’m Ishita95-harvard 🖥*| Finances- 🌐 Kaggle money come on in [freelance] |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
+### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
 --------------
@@ -15,7 +15,8 @@
 ⚡ Project Completion Requests-  
 
 ---------
-### 🎀🎀 work ~progress 🇮🇳 ---------------------+
+
+### 🎈| 🌐 Hi, I’m Ishita95-harvard 🖥*| Finances- 🌐 Kaggle money come on in [freelance] |*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈
 
 ### 🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc. 
 
