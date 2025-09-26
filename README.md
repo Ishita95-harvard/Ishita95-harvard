@@ -72,13 +72,14 @@
  
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
-### Let's Connect! 
 
 
 -----
 ### 🎀🎀 work ~progress 🇮🇳 ---------------------+
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 ![GGSIPU DL](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/022c6449e46efcda9000060136323f23.jpg)
+### Let's Connect! 
+
 ----
 
 <!---
