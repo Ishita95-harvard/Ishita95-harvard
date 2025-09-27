@@ -7,8 +7,7 @@
 
 --------------
 
-#### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)|
-*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |
+#### |🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
