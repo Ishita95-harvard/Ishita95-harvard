@@ -1,11 +1,11 @@
 
-#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) ✈️  Wikipedia |     
+#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) ✈️  Wikipedia | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/)     
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
 
-#### 🎈 Finances|🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 |🎈[freelance]
+#### 🎈 Finances|🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 |🎈 IDEPEDETFREELACE
 
 
 --------------
@@ -20,7 +20,7 @@
 - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
 - 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
 - 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
-#### 🌐 Hi, I’m Ishita95-harvard 🖥*|🌐 Kaggle money come on In |
+#### 🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In |
 
 ![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
 
