@@ -52,24 +52,24 @@
 
 #### IEEE MEMBER ID - 101542707 funds
 
-####  **GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
+
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
  
 --------
 #### Hey! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
-▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
-
-▪🌐 Feel free to check out my repositories,**sponsors**,**contribute, or reach out**!
-
-▪🌐 Let’s**build** something amazing together 
-
+####  **GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
  
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
 ------
 #### 🛡️ JULY 2025 Let's Connect! 
+▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
+
+▪🌐 Feel free to check out my repositories,**sponsors**,**contribute, or reach out**!
+
+▪🌐 Let’s**build** something amazing together 
 
 
 ![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
