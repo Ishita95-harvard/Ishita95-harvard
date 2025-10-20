@@ -5,7 +5,7 @@
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
 
-#### 🎈 Finances|🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈[freelance]
+#### 🎈 Finances|🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 |🎈[freelance]
 
 
 --------------
