@@ -14,7 +14,7 @@
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
-**“Scaling Ideas, Not Just Infrastructure.”**
+
 
 ---------
 - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
@@ -23,7 +23,7 @@
 #### 🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In |
 
 ![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
-
+**“Scaling Ideas, Not Just Infrastructure.”**
 
 ----
 #### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
