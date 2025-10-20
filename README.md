@@ -1,5 +1,5 @@
 
-#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) ✈️  Wikipedia | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/)     
+#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) |   ✈️  Wikipedia   
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 ***
