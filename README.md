@@ -2,6 +2,7 @@
 #### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) |     
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
+
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
 
@@ -48,7 +49,7 @@
 🔗🌐 [Google Scholar](https://scholar.google.com/citations?view_op=new_profile&hl=id) 🔗🌐 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=XXXXXX)  🔗🌐 [Publons](https://www.webofscience.com/wos/author/record/NUQ-4268-2025)  🔗🌐 [ORCID](https://orcid.org/0009-0006-6433-0895) 🔗🌐 [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025 
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 
----
+
 
 #### IEEE MEMBER ID - 101542707 funds
 
@@ -81,7 +82,8 @@
 
 ### Get In Touch !
 ![GGSIPU DL](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/022c6449e46efcda9000060136323f23.jpg)
-----
+
+***
 
 <!---
 
