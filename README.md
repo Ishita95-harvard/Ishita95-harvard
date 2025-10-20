@@ -17,7 +17,7 @@
 
 #### 🌐 Hi, I’m Ishita95-harvard 🖥*|🌐 Kaggle money come on In |
 
- 
+![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
@@ -74,8 +74,6 @@
 
  
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
-
-
 
 -----
 ### 🎀🎀 work ~progress 🇮🇳 ----------+
