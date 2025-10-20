@@ -17,7 +17,9 @@
 
 
 ---------
-
+- 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
+- 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
+- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
 #### 🌐 Hi, I’m Ishita95-harvard 🖥*|🌐 Kaggle money come on In |
 
 ![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
@@ -69,9 +71,6 @@
 ------
 #### 🛡️ JULY 2025 Let's Connect! 
 
-- 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
-- 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
-- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
 
 ![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
 
