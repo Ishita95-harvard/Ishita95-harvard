@@ -5,14 +5,14 @@
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
 
-
+#### 🧠Project Completion Requests-   🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc.
 --------------
 
 #### 🎈 Finances|🌐 synapseglobal.tech : 2025 (Globally) | 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐*💻 MAcbook: October 2025 Get me This: 🔗Niti AAyog Internship |🎈[freelance]
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
-#### 🧠Project Completion Requests-   🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc.
+
 
 ---------
 
