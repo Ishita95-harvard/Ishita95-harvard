@@ -1,6 +1,7 @@
 
 #### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) ✈️  Wikipedia |     
 
+![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 ***
 ![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
 
@@ -19,7 +20,6 @@
 
 ![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
 
-![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ----
 #### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
@@ -51,18 +51,7 @@
 ####  **GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
-
-------
-#### 🛡️ JULY 2025 Let's Connect! 
-
-- 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
-- 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
-- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
-
-![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
-
-
-  
+ 
 --------
 #### Hey! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research.
 
@@ -74,6 +63,15 @@
 
  
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
+
+------
+#### 🛡️ JULY 2025 Let's Connect! 
+
+- 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
+- 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
+- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
+
+![MiniGitHub Portfolio Site!Mtech Screenshot](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/ishita95-harvad-github-io-Ishita-ai-mtech-portfolio-github-io-.jpg)
 
 -----
 ### 🎀🎀 work ~progress 🇮🇳 ----------+
