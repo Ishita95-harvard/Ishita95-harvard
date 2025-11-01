@@ -10,12 +10,13 @@
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
 
-
----------
 - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
 - 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
 - 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
-####  |#### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 |
+
+-----
+
+#### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 |
 
 ![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
 **“Scaling Ideas, Not Just Infrastructure.”**
