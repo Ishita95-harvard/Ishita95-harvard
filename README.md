@@ -4,7 +4,7 @@
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ***
-#### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 | ✈️  Wikipedia 
+ 🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In ✈️  Wikipedia 
 
 
 --------------
@@ -19,7 +19,7 @@
 - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
 - 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
 - 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
-#### 🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In |
+####  |#### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 |
 
 ![synapse global](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Screenshot%20(788).png)
 **“Scaling Ideas, Not Just Infrastructure.”**
