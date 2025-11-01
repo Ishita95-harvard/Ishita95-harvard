@@ -6,13 +6,13 @@
 
 
 
-#### IEEE MEMBER ID - 101542707 funds
+#### 🌐IEEE MEMBER ID - 101542707 funds
 
 
 
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true)         
  
-#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard) 🌐 [LinkedIn Service Request Page](https://www.linkedin.com/services/page/942495333429368567/) |     
+#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)   
 
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
