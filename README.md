@@ -4,12 +4,8 @@
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ***
- 🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In ✈️  Wikipedia 
-
-
---------------
-
-#### 🧠Project Completion Requests-   🌐 [Visas-Q](https://corp.visasq.co.jp/en/) INc.
+ 🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In ✈️  Wikipedia
+#### 🧠Project Completion Requests-   🌐 [Google AIML](https://corp.visasq.co.jp/en/) INc.
 
 ![VisasQINc.](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/mv-01.webp)
 
