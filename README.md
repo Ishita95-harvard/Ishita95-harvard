@@ -4,8 +4,6 @@
 ![get the mackbook this october](https://cdni.autocarindia.com/Stuff/Uploads/ReviewImages/638121013541973843_main.jpg)
 
 ***
-![profile picture](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/Web_Photo_Editor%20(1).jpg)
-
 #### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 October 2025 | ✈️  Wikipedia 
 
 
