@@ -61,12 +61,6 @@
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
 ------
-#### 🛡️ JULY 2025 Let's Connect! 
-▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
-
-▪🌐 Feel free to check out my repositories,**sponsors**,**contribute, or reach out**!
-
-▪🌐 Let’s**build** something amazing together 
 
 
 
@@ -77,6 +71,13 @@
 
 ### Get In Touch !
 ![GGSIPU DL](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/022c6449e46efcda9000060136323f23.jpg)
+#### 🛡️ JULY 2025 Let's Connect! 
+▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
+
+▪🌐 Feel free to check out my repositories,**sponsors**,**contribute, or reach out**!
+
+▪🌐 Let’s**build** something amazing together 
+
 
 ***
 
