@@ -1,11 +1,11 @@
 
 #### Hey! I’m Ishita, a passionate developer and problem-solver exploring the intersections of technology, machine learning, and innovation. My work revolves around crafting intelligent solutions, contributing to exciting projects, and pushing the boundaries of AI research. 
  
-#### 🌐IEEE MEMBER ID - 101542707 funds    
+ 
 #### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)   
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
-
+#### 🌐IEEE MEMBER ID - 101542707 funds   
 ####  **GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
  
 ![IEEE APPEEC MTECH PAPERPUBLICATION, 2025 DEC](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png?raw=true) 
