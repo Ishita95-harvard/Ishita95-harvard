@@ -37,7 +37,9 @@
 🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
 
 🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
+
 ------
+
 ### 🎀🎀 work ~progress 🇮🇳 ----------+
 
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
