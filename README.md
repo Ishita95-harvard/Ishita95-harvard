@@ -5,6 +5,8 @@
 #### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)   
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
+#### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 December 2025 |
+
 #### 🌐IEEE MEMBER ID - 101542707 funds   
 ####  **GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
  
@@ -20,10 +22,6 @@
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 
 ***
-#### 🎈 Finances |🌐 synapseglobal.tech : 2025 (Globally) | | 🌐 [Google Developer Expert](https://g.dev/ishitabahammnia)| 🌐💻 MAcbook: 🔗 December 2025 |
-
----
-
 
 #### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In:🌍 (Globally)
 
