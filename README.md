@@ -5,6 +5,9 @@
 #### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)   
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
+----
+
+
 #### 🌐IEEE MEMBER ID - 101542707 funds   
 ####  **GOAL-🏆BEST PAPER AWARD DECEMBER 2025! IEEE APPEEC, NEW ZEALAND**
  
@@ -12,7 +15,7 @@
 
 **“Scaling Ideas, Not Just Infrastructure.”**
 
-----
+
 
 **Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting, intelligent optimization, and explainable AI.**
 
