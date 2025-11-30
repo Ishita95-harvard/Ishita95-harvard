@@ -15,8 +15,6 @@
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
 
-**“Scaling Ideas, Not Just Infrastructure.”**
-
 
 ***
 
@@ -26,13 +24,17 @@
 
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
-### Get In Touch !
+**“Scaling Ideas, Not Just Infrastructure.”**
+
+
 ![GGSIPU DL](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/022c6449e46efcda9000060136323f23.jpg)
 
 
  - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
 - 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
-- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
+- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) 
+
+---
 
 ![july](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/photo_2025-11-12_08-17-40.jpg)
 #### 🛡️ JULY 2025 Let's Connect! 
