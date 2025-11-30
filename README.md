@@ -11,10 +11,10 @@
 
 **Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting,
  intelligent optimization, and explainable AI.**
-#### 🌐IEEE MEMBER ID - 101542707 funds   
-####  **IEEE NREL**
-IEEE SCOPUS September 2025- December 2025
+
  
+#### 🌐IEEE MEMBER ID - 101542707 funds   
+####  **IEEE NREL** IEEE SCOPUS
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
 
