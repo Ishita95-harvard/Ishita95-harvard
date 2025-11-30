@@ -1,7 +1,7 @@
 
 
 ----
-#### | 🏛️ E-mail:bahamniaishita@gmail.com, Mobile: 📱 | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)  
+#### | 🏛️ E-mail:bahamniaishita@gmail.com | Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)  
 
 
 #### 🌐IEEE MEMBER ID - 101542707 funds   
