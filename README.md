@@ -28,6 +28,13 @@
 
 ### Get In Touch !
 ![GGSIPU DL](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/022c6449e46efcda9000060136323f23.jpg)
+
+
+ - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
+- 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
+- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
+
+![july](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/photo_2025-11-12_08-17-40.jpg)
 #### 🛡️ JULY 2025 Let's Connect! 
 
 ▪🌐 I love collaborating on **impactful** projects, exchanging**knowledge**, and **learning** from the community.
@@ -38,18 +45,10 @@
 
 🌐 Hi, I’m Ishita95-harvard 🖥
 
----
 
 🌐 Kaggle money come on In ✈️  Wikipedia
 
- 
 
-![july](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/photo_2025-11-12_08-17-40.jpg)
-
-
-- 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
-- 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
-- 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
 
 ---
 
