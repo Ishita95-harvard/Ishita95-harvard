@@ -6,13 +6,13 @@
 
 ***
 
- [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025 
+ [IEEE](https://attend.ieee.org/appeec-2025/:call-for-papers/)   
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 
 **Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting,
  intelligent optimization, and explainable AI.**
 #### 🌐IEEE MEMBER ID - 101542707 funds   
-####  **IEEE NREL**
+####  **IEEE NREL**September 2025- December 2025
  
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
