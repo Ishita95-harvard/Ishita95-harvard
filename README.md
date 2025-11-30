@@ -36,8 +36,12 @@
 
 ▪🌐 Let’s**build** something amazing together
 
-🌐 Hi, I’m Ishita95-harvard 🖥|🌐 Kaggle money come on In ✈️  Wikipedia
-#### 🧠Project Completion Requests-  
+🌐 Hi, I’m Ishita95-harvard 🖥
+
+---
+
+🌐 Kaggle money come on In ✈️  Wikipedia
+
  
 
 ![july](https://github.com/Ishita95-harvard/Ishita95-harvard/blob/main/photo_2025-11-12_08-17-40.jpg)
