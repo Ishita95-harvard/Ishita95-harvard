@@ -1,8 +1,13 @@
 
 
-----
+
 ## Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)  
 
+### 🎀🎀 work ~progress 🇮🇳 ----------+
+
+![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
+
+***
 
 #### 🌐IEEE MEMBER ID - 101542707 funds   
 ####  **IEEE NREL**
@@ -20,9 +25,7 @@
 
 
 
-### 🎀🎀 work ~progress 🇮🇳 ----------+
 
-![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
 **“Scaling Ideas, Not Just Infrastructure.”**
 
