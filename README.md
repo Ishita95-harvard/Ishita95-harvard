@@ -6,7 +6,7 @@
 
 ***
 
- [mdu](https://attend.ieee.org/appeec-2025/:call-for-papers/)   
+ 
 ![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
 
 **Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting,
