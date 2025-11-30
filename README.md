@@ -6,7 +6,11 @@
 
 #### 🌐IEEE MEMBER ID - 101542707 funds   
 ####  **IEEE NREL**
- 
+  [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025 
+![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
+
+**Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting,
+ intelligent optimization, and explainable AI.**
 
 ![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 
@@ -14,31 +18,9 @@
 **“Scaling Ideas, Not Just Infrastructure.”**
 
 
-
-**Hello there!Ishita.Bahamnia received her B.Tech.in EEE from GGSIPU, Delhi and M.Tech. in AI & ML🎓 from MDU University,Rohtak . She is currently pursuing research in AI-powered Multi-Agent Systems for Smart Grids. Her interests include renewable forecasting,
- intelligent optimization, and explainable AI.**
-
- 
- [IEEE](https://attend.ieee.org/appeec-2025/call-for-papers/) : September 2025- December 2025 
-![Maharshi Dayanand University Campus](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/Maharishi-Dayanand-University-SAVE-1.png)
-
 ***
 
-#### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In
 
-![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
-
-##### 🌟 What You'll Find Here :
- 
-🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
-
-🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
-
-🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
-
-🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
-
-------
 
 ### 🎀🎀 work ~progress 🇮🇳 ----------+
 
@@ -64,6 +46,25 @@
 - 🌐[Subscribe to My Newsletter](https://www.linkedin.com/newsletters/ishita-bahamnia-7269213550366089216/) |
 - 🌐[LinkedIn – Ishita Bahamnia (Senior Research Analyst)](https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst) |
 - 🌐[Open to national-international offers/events/opportunities](https://www.india.gov.in/) |
+
+---
+
+#### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In
+
+
+
+![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
+
+##### 🌟 What You'll Find Here :
+ 
+🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
+
+🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
+
+🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
+
+🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
+
 
 ***
 
