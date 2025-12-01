@@ -1,7 +1,7 @@
 
 
 
-## Welcome to [Ishita95-harvard](https://github.com/Ishita95-harvard)  
+## Welcome to [Ishita95-Stanford](https://github.com/Ishita95-harvard)  
 
 
 ***
