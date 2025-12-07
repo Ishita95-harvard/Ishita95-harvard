@@ -15,7 +15,7 @@
  
 #### 🌐IEEE MEMBER ID - 101542707 funds   
 ####  **IEEE NREL** IEEE SCOPUS
-![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
+
 
 
 
@@ -53,7 +53,7 @@
 
 ### 🎀🎀 work ~progress 🇮🇳 ----------+
 
-
+![WE0wez](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/WE0wez.jpg?raw=true)
 ---
 
 #### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In
